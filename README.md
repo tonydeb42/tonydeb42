@@ -52,7 +52,7 @@
 
 ### 📫 Connect With Me
 
-* LinkedIn: *(add your link)*
+* LinkedIn: https://www.linkedin.com/in/pratyush-deb-b59aba215
 * GitHub: https://github.com/tonydeb42
 
 ---
